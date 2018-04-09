@@ -29,23 +29,23 @@
 
 ## 二、设计原图
 
-![view](https://github.com/yws233/kuaib/blob/master/kuaib.png)
+![view](https://github.com/yws233/yws-Kuaib/blob/master/images/kuaib.png)
 
 ## 三、登录界面
 
-![](https://github.com/yws233/kuaib/blob/master/images/login.png)
+![](https://github.com/yws233/yws-Kuaib/blob/master/images/login.png)
 
-## 四、4.0版本效果
+## 四、6.0版本效果
 
-![](https://github.com/yws233/kuaib/blob/master/images/main.png)
+![](https://github.com/yws233/yws-Kuaib/blob/master/images/main.png)
 
 ## 五、注册界面
 
-![](https://github.com/yws233/kuaib/blob/master/reg2.0.png)
+![](https://github.com/yws233/yws-Kuaib/blob/master/images/register.png)
 
 ## 六、密码找回
 
-![](https://github.com/yws233/kuaib/blob/master/pwd2.0.png)
+![](https://github.com/yws233/yws-Kuaib/blob/master/images/back.png)
 
 ## 七、操作指南
 
