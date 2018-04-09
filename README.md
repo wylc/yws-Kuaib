@@ -17,17 +17,17 @@
 ![](https://github.com/yws233/yws-Kuaib/blob/master/images/head02.png)![](https://github.com/yws233/yws-Kuaib/blob/master/images/head04.png)
 ![](https://github.com/yws233/yws-Kuaib/blob/master/images/head05.png)![](https://github.com/yws233/yws-Kuaib/blob/master/images/head06.png)![](https://github.com/yws233/yws-Kuaib/blob/master/images/head07.png)![](https://github.com/yws233/yws-Kuaib/blob/master/images/head09.png)![](https://github.com/yws233/yws-Kuaib/blob/master/images/head11.png)
 
-### 前端：HTML5 + CSS3 + JS + jQuery + ajax + fastjson + xhEditer + pdf.js
+前端：HTML5 + CSS3 + JS + jQuery + ajax + fastjson + xhEditer + pdf.js
 
-### 后端：SpringMVC + Spring + Mybatis + POIXMLDocument + SimHash
+后端：SpringMVC + Spring + Mybatis + POIXMLDocument + SimHash
 
-### 数据库：MySQL + Redis(缓存后期)
+数据库：MySQL + Redis(缓存后期)
 
-### 服务器：Tomcat9.02 + aliyun + jdk1.8
+服务器：Tomcat9.02 + aliyun + jdk1.8
 
-### 文件处理：POI + PDFBOX + JDOM + itextpdf
+文件处理：POI + PDFBOX + JDOM + itextpdf
 
-### 开发环境：ubuntu16.04
+开发环境：ubuntu16.04
 
 ## 二、设计原图
 
