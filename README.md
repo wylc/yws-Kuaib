@@ -1,21 +1,21 @@
 
 
 
-![](https://github.com/yws233/kuaib/blob/master/kuaib_logo.png)
+![](https://github.com/yws233/yws-Kuaib/tree/master/images/kuaib_logo.png)
 # kuaib
 ## 一、简介
 
 ### 让编写变得纯粹实用，高效简单，也让查询更加友好;同时也是一款去除文档格式神器，便于将各种文档格式转换为无格式文档，方便应用他出。
 
-![](https://github.com/yws233/kuaib/blob/master/images/head1.png)&nbsp;![](https://github.com/yws233/kuaib/blob/master/images/head03.png)
+![](https://github.com/yws233/yws-Kuaib/tree/master/images/head1.png)&nbsp;![](https://github.com/yws233/yws-Kuaib/tree/master/images/head03.png)
 
 <strong>快编（kuaib）</strong>是一款专门为解决修改编写对而开发的文本对比编辑软件，其最大特点就是所有功能都可在一个页面完成，完全省去了编辑查询等多窗口编辑模式。快编将参照、编写、个性化查重、对比、pdf转换等放在同一窗口显示，<strong style="font-size:24px">PDF等格式编辑神器，可以直接复制为无格式文字，方便应用于任何文档，再也不用麻烦转化格式问题</strong>。可以支持上传word/pdf/excel/rtf/txt/java/py/c等十多种格式文件上传，并可同步显示在文件上传区域内，并可直接进行编辑。在整体的页面即可实现实时查询与发送，提供谷歌、维基、知网、高校官网等直接查询，另外还可连接qq/微信/git等社交软件，方便随时编写发送与沟通。此外，在编辑区域不仅可以实现实时统计字数，还提供富裕文本编辑，方便拓展编辑，可上传图片/视频等，字体/排版等都可个性化设置。此外，在历史记录区域，可以实现一键对比，可以将编辑过的文字直接显示在历史，方便对比。
 快编系统省去了目前Word等编辑软件在修改比对切换的麻烦，快编就是为了让编写、比对、修改同显示，更直观、更纯粹。项目基于SSM框架，更新于5.1.0版本。
 
 ## 项目地址:http://yws233.cn:8080/kuaib/
 
-![](https://github.com/yws233/kuaib/blob/master/images/head02.png)![](https://github.com/yws233/kuaib/blob/master/images/head04.png)
-![](https://github.com/yws233/kuaib/blob/master/images/head05.png)![](https://github.com/yws233/kuaib/blob/master/images/head06.png)![](https://github.com/yws233/kuaib/blob/master/images/head07.png)![](https://github.com/yws233/kuaib/blob/master/images/head09.png)![](https://github.com/yws233/kuaib/blob/master/images/head11.png)
+![](https://github.com/yws233/yws-Kuaib/tree/master/images/head02.png)![](https://github.com/yws233/yws-Kuaib/tree/master/images/head04.png)
+![](https://github.com/yws233/yws-Kuaib/tree/master/images/head05.png)![](https://github.com/yws233/yws-Kuaib/tree/master/images/head06.png)![](https://github.com/yws233/yws-Kuaib/tree/master/images/head07.png)![](https://github.com/yws233/yws-Kuaib/tree/master/images/head09.png)![](https://github.com/yws233/yws-Kuaib/tree/master/images/head11.png)
 
 前端：HTML5 + CSS3 + JS + jQuery + ajax + fastjson + xhEditer + pdf.js
 
