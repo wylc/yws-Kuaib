@@ -43,7 +43,7 @@
 
 ![](https://github.com/yws233/yws-Kuaib/blob/master/images/main.png)
 
-## 文件上传，保存后，参考、编辑、对比事宜
+## 文件上传，保存后，参考、编辑、对比效果
 
 ![](https://github.com/yws233/yws-Kuaib/blob/master/images/power.png)
 
