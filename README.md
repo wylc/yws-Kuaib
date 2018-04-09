@@ -45,7 +45,7 @@
 
 ## 六、密码找回
 
-![](https://github.com/yws233/yws-Kuaib/blob/master/images/back.png)
+![](https://github.com/yws233/yws-Kuaib/blob/master/images/backpass.png)
 
 ## 七、操作指南
 
