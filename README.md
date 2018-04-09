@@ -35,6 +35,10 @@
 
 ![](https://github.com/yws233/yws-Kuaib/blob/master/images/login.png)
 
+## 评论区
+
+![](https://github.com/yws233/yws-Kuaib/blob/master/images/commit.png)
+
 ## 四、6.0版本效果
 
 ![](https://github.com/yws233/yws-Kuaib/blob/master/images/main.png)
