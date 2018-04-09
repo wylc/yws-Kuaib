@@ -49,7 +49,7 @@
 
 ## 信息交换系统
 
-![](https://github.com/yws233/yws-Kuaib/blob/master/images/exchange.png)
+![](https://github.com/yws233/yws-Kuaib/blob/master/images/class.png)
 
 ## 五、注册界面
 
