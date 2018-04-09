@@ -14,8 +14,8 @@
 
 ## 项目地址:http://yws233.cn:8080/kuaib/
 
-![](https://github.com/yws233/yws-Kuaib/tree/master/images/head02.png)![](https://github.com/yws233/yws-Kuaib/tree/master/images/head04.png)
-![](https://github.com/yws233/yws-Kuaib/tree/master/images/head05.png)![](https://github.com/yws233/yws-Kuaib/tree/master/images/head06.png)![](https://github.com/yws233/yws-Kuaib/tree/master/images/head07.png)![](https://github.com/yws233/yws-Kuaib/tree/master/images/head09.png)![](https://github.com/yws233/yws-Kuaib/tree/master/images/head11.png)
+![](https://github.com/yws233/yws-Kuaib/blob/master/images/head02.png)![](https://github.com/yws233/yws-Kuaib/blob/master/images/head04.png)
+![](https://github.com/yws233/yws-Kuaib/blob/master/images/head05.png)![](https://github.com/yws233/yws-Kuaib/blob/master/images/head06.png)![](https://github.com/yws233/yws-Kuaib/blob/master/images/head07.png)![](https://github.com/yws233/yws-Kuaib/blob/master/images/head09.png)![](https://github.com/yws233/yws-Kuaib/blob/master/images/head11.png)
 
 前端：HTML5 + CSS3 + JS + jQuery + ajax + fastjson + xhEditer + pdf.js
 
