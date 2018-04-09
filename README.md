@@ -43,6 +43,14 @@
 
 ![](https://github.com/yws233/yws-Kuaib/blob/master/images/main.png)
 
+## 文件上传，保存后，参考、编辑、对比事宜
+
+![](https://github.com/yws233/yws-Kuaib/blob/master/images/power.png)
+
+## 信息交换系统
+
+![](https://github.com/yws233/yws-Kuaib/blob/master/images/exchange.png)
+
 ## 五、注册界面
 
 ![](https://github.com/yws233/yws-Kuaib/blob/master/images/register.png)
@@ -50,8 +58,6 @@
 ## 六、密码找回
 
 ![](https://github.com/yws233/yws-Kuaib/blob/master/images/backpass.png)
-
-## 七、操作指南
 
 
 ### 一、登录注册
