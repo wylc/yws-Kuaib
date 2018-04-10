@@ -27,7 +27,7 @@
 
 文件处理：POI + PDFBOX + JDOM + itextpdf
 
-开发环境：ubuntu16.04
+开发环境：ubuntu16.04 + IDEA17.2
 
 ## 二、设计原图
 
